@@ -1,0 +1,6 @@
+requests
+pandas
+selenium==4.8.2
+webdriver-manager==3.8.5
+beautifulsoup4
+pandas
